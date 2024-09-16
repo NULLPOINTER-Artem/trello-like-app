@@ -1,0 +1,14 @@
+{
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "html": {
+        "printWidth": 120,
+        "tabWidth": 2,
+        "semi": true,
+        "singleQuote": true,
+        "bracketSameLine": false,
+        "arrowParens": "avoid"
+    }
+}
